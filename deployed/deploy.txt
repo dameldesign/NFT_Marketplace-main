@@ -1,0 +1,7 @@
+DiamondCutFacet deployed: 0x2293A6aEB72201C98b245bc936500734C1794A16
+Diamond deployed: 0x8f8589b3413fDF23EFfd197cec35E00F2fCCD7D5
+DiamondInit deployed: 0x7B5945D6Ed5BA743C1baD442478aB7325052B643
+
+Deploying facets
+DiamondLoupeFacet deployed: 0x83eeb113EfCd5819160f6fEDC49B32D0d377Eb24
+OwnershipFacet deployed: 0xcEf759d813d1B950cD925de29ddB5C7B17ebF1AA
